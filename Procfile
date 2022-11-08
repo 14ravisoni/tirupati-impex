@@ -1,0 +1,1 @@
+web: gunicorn tirupati_impex.wsgi
